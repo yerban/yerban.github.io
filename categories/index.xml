@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 夜半 - OPS</title>
+    <link>https://yerban.github.io/categories/</link>
+    <description>Recent content in Categories on 夜半 - OPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jul 2020 11:39:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://yerban.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docker</title>
+      <link>https://yerban.github.io/categories/docker/</link>
+      <pubDate>Tue, 28 Jul 2020 11:39:25 +0800</pubDate>
+      
+      <guid>https://yerban.github.io/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OPS</title>
+      <link>https://yerban.github.io/categories/ops/</link>
+      <pubDate>Tue, 28 Jul 2020 11:39:25 +0800</pubDate>
+      
+      <guid>https://yerban.github.io/categories/ops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://yerban.github.io/categories/development/</link>
+      <pubDate>Tue, 28 Jul 2020 11:12:45 +0800</pubDate>
+      
+      <guid>https://yerban.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

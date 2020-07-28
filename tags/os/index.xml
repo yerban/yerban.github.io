@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OS on 夜半 - OPS</title>
+    <link>https://yerban.github.io/tags/os/</link>
+    <description>Recent content in OS on 夜半 - OPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jul 2020 11:39:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://yerban.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docker安装</title>
+      <link>https://yerban.github.io/post/docker%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Tue, 28 Jul 2020 11:39:25 +0800</pubDate>
+      
+      <guid>https://yerban.github.io/post/docker%E5%AE%89%E8%A3%85/</guid>
+      <description>卸载老版本 较旧的 Docker 版本称为 docker 或 docker-engine 。如果已安装这些程序，请卸载它们以及相关的依赖项。 1 2 3 4 5 6 7 8 yum remove docker \ docker-client \ docker-client-latest \ docker-common \ docker-latest \ docker-latest-logrotate \ docker-logrotate \ docker-engine 使用 Docker 仓</description>
+    </item>
+    
+  </channel>
+</rss>
